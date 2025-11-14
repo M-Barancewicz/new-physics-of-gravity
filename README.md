@@ -16,9 +16,11 @@ The following figures provide a direct comparison between the MRG-v6 results and
 ---
 
 ## DDO 154 Rotation Curve: MRG-v6 vs. Standard Models
+![DDO 154 Rotation Curve Comparison](images/DDO%20154%20i%20rozne%20charakterystyki.png)
 
-![DDO 154 Rotation Curve Comparison](images/DDO_154_porownanie_MRG_vs_CDM.png)
-
+---
+## NGC 891 Rotation Curve: Further Evidence
+![NGC 891 Rotation Curve Comparison](images/NGC%20891%20Rotation%20Curve.png)
 
 # new-physics-of-gravity
 New theory of gravity (Geometry-Dependent Dispersed Mass Gravity). Applicable at every scale. The theory successfully models galaxy rotation curves, galaxy clusters, quasar energy, and other objects. No need for Dark Matter, MOND, General Relativity (OTW), or any other existing theory.
