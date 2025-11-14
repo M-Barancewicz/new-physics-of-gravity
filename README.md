@@ -1,28 +1,3 @@
-# The MRG-v6 Paradigm: A Unified Gravity Model
-
-This repository presents the **Mass-Geometry Dependent Gravity (MRG-v6)** paradigm, which resolves cosmological anomalies exclusively through **baryonic matter**.
-
-MRG-v6 introduces a log-density factor to Newtonian gravity, eliminating the need for Dark Matter.
-
-### Comparative Evidence
-
-The following figures provide a direct comparison between the MRG-v6 results and established cosmological models:
-
-* **CDM:** $\Lambda$CDM (General Relativity + Dark Matter)
-* **MOND:** Modified Newtonian Dynamics (A dynamics-based alternative)
-* **GR:** General Relativity (OTW without Dark Matter)
-* **MRG-v6:** Mass-Geometry Dependent Gravity (The new paradigm)
-
----
-
-## DDO 154 Rotation Curve: MRG-v6 vs. Standard Models
-![DDO 154 Rotation Curve Comparison](images/DDO_154_plot.png)
----
-
-## NGC 891 Rotation Curve: Further Evidence
-![NGC 891 Rotation Curve Comparison](images/NGC_891_plot.png)
-
-
 # new-physics-of-gravity
 New theory of gravity (Geometry-Dependent Dispersed Mass Gravity). Applicable at every scale. The theory successfully models galaxy rotation curves, galaxy clusters, quasar energy, and other objects. No need for Dark Matter, MOND, General Relativity (OTW), or any other existing theory.
 \documentclass[12pt]{extarticle}
