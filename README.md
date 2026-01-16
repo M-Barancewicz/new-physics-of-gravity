@@ -586,6 +586,9 @@ The \textbf{MRG-v6} equation naturally explains why “interstellar junk” \\(d
 \end{itemize}
 % k7
 
+![DDO 154 + MOND + CDM + OTW  Image 2025-07-23 at 13 45 54](https://github.com/user-attachments/assets/5e78392f-0d56-4c94-b977-c4e3497a2446)
+
+
 % p8
 \section*{Simulation of the Omega Centauri Globular Cluster \\(\(\omega\) Cen) in the MRG-v6 Model.}
 \textbf{Goal:} To calculate \(\alpha\) and the dynamical mass without dark matter, \\using the observed rotation curve and velocity dispersion.
