@@ -1409,7 +1409,9 @@ Skepticism is \textbf{completely justified}:
   \item I often hear the claim that Einstein’s GR "overthrew" Newton. \\Yet right after, people admit Newton’s laws still work fine for most calculations \\– because they're simpler.
   If GR “overthrew” anything. I want to know how it explains flat rotation curves, gravitational lensing, and other observed cosmic phenomena \\without Newtonian gravity and without invoking invented ghost-matter. \\
   \textbf{Without Newton’s constant $G$, there is no GR.}
+\item The Reality of Newtonian Forces in Galactic Dynamics.
 
+If gravity were merely a geometric property of spacetime ("fabric"), a change in orbit would require no work, and an object at a new orbital altitude would not possess a different kinetic energy. The fact that every orbital transition involves a strictly defined energy balance and the application of force is definitive proof that the cosmos is not a curved structure, but a system governed by real Newtonian forces. It is not "geodesics" that hold galaxies together; it is the brutal force derived from the spatial distribution of mass.
 \subsection*{Reflection:}
 
   \item Perhaps MRG will contribute to better understanding of the Universe \\and help answer the question: how did it all begin?\\
@@ -1420,4 +1422,6 @@ Skepticism is \textbf{completely justified}:
   \\These are my personal thoughts. \\I have no intention of debating them.}
 \end{itemize}
 % k18
+![NGC 891, 2026-01-26 at 23 19 53](https://github.com/user-attachments/assets/679f7ec2-566d-47da-83b8-fd36cc3594f5)
+
 \end{document}
