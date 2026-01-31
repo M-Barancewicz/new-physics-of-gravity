@@ -1417,6 +1417,35 @@ If gravity were merely a geometric property of spacetime ("fabric"), a change in
   \item Perhaps MRG will contribute to better understanding of the Universe \\and help answer the question: how did it all begin?\\
   Before the next great extinction.
 
+%
+\section*{Supplement}
+
+After the completion of the present work, two independent articles were produced
+that provide additional physical foundations for the description of gravitational
+interactions on cosmological scales presented here.
+In the first of these works, it was demonstrated that the photon does not possess
+momentum in the dynamical sense, and that its interaction with matter leads solely
+to energy transformations, without any transport of mass.
+The second study presents an analysis of the forces binding the atomic nucleus,
+from which it follows that processes of nuclear fusion and decay do not result
+in an actual loss of mass, but rather in the release of energy stored in the
+structure of nuclear bonds.
+
+These results have direct consequences for cosmological physics.
+The emission of electromagnetic radiation by stars, as well as by objects emitting
+predominantly in the infrared, cannot be interpreted as a mechanism of matter loss.
+Matter and energy constitute distinct physical entities, and matter plays the role
+of a catalyst for energy transformations, rather than serving as its carrier in
+radiative processes.
+
+The above observations reinforce the conclusions of the present work, in which
+gravity is described as a material interaction governed by classical laws of
+dynamics, without the need to invoke additional components of matter or geometric
+interpretations of spacetime.
+Detailed derivations, equations, and quantitative analyses are presented in
+separate publications devoted respectively to the properties of the photon and
+to the forces binding the atomic nucleus.
+%
   \item 
   \textbf{No one has to agree with me. 
   \\These are my personal thoughts. \\I have no intention of debating them.}
