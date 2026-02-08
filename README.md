@@ -200,7 +200,7 @@ F_{\text{MRG}}(R) = \sum_{j \neq i} G \frac{m_i m_j}{r_{ij}^2} \left[1 + \alpha 
 \begin{itemize}
   \item \(\rho_{ij}(R)\) – the local density within a sphere of radius \( r_{\text{cut}} \) around point \( R \),
   \item \(\alpha \approx 0.7\),
-  \item \(\rho_0 = 0.1 \, M_\odot/\text{pc}^3\),
+  \item \(\rho_0 = 0.01 \, M_\odot/\text{pc}^3\),
   \item \(\hat{r}_{ij}\) – unit vector.
 \end{itemize}
 
