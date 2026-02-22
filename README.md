@@ -69,10 +69,15 @@ New theory of gravity (Geometry-Dependent Dispersed Mass Gravity). Applicable at
 
 \maketitle
 
-% klauzula praw autorskich:
+% Copyright clause
 \begin{center}
-\textcopyright \ 2025 M. Barancewicz. All rights reserved.
+ \textit{\textcopyright \ 2025 M. Barancewicz. All rights reserved.\\ Permission is granted to copy with attribution. \\For truth is not afraid of dissemination and discussion.} 
 \end{center}
+
+% klauzula praw autorskich:
+%\begin{center}
+%\textcopyright \ 2025 M. Barancewicz. All rights reserved.
+%\end{center}
 
 \begin{abstract}
 
